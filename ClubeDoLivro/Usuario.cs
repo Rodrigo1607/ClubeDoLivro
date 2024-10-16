@@ -1,4 +1,6 @@
-﻿namespace ClubeDoLivro
+﻿using System;
+
+namespace ClubeDoLivro
 {
     public class Usuario
     {
